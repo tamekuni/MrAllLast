@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">オーラス君!!</string>
+    <string name="Ton">東</string>
+    <string name="Nan">南</string>
+    <string name="Sya">西</string>
+    <string name="Pei">北</string>
+    <string name="Kyotaku">■供託</string>
+    <string name="Tsumibo">■積棒</string>
+    <string name="PointUnit">点</string>
+    <string name="PointUnit00">00点</string>
+    <string name="PointUnit00Me">00点(←自分)</string>
+    <string name="BoUnit">本</string>
+    <string name="Me">(↑自分)</string>
+    <string name="DirectRon">■直撃ロン■</string>
+    <string name="Ron">■ロン■</string>
+    <string name="Tsumo">■ツモ■</string>
+
+</resources>
